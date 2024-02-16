@@ -1,0 +1,10 @@
+.undecored {
+  text-decoration: none;
+  color: white;
+}
+.hover {
+  cursor: pointer;
+}
+.customStart {
+  left: 15%;
+}
